@@ -11,15 +11,25 @@ License Plate Detection using Computer Vision and YOLO + OCR is an end-to-end Au
 
 ## Overall Pipeline
   Input Image
+
         ↓
+
 YOLO Model (Plate Detection)
+
         ↓
+
 Crop License Plate
+
         ↓
+        
 Image Preprocessing
+        
         ↓
+        
 OCR (Text Recognition)
+        
         ↓
+        
 License Plate Number Output
 
 ## License Plate Detection (YOLO)
