@@ -41,16 +41,16 @@ License Plate Number Output
 * EasyOCR → Deep-learning based, higher accuracy for plates
 
 ## What the Notebook Covers:
-Part 1: Installation & Setup
-Part 2: Download Roboflow Dataset (automated)
-Part 3: Traditional CV Detection (OpenCV baseline)
-Part 4: Train YOLOv8 Model (quick & full training)
-Part 5: Model Validation (metrics & visualization)
-Part 6: OCR Integration (Tesseract setup)
-Part 7: Complete Pipeline (YOLO + OCR together)
-Part 8: Batch Processing & Analytics
-Part 9: Model Export (ONNX/TFLite/OpenVINO)
-Part 10: Train YOLOv8 Model with small and medium YOLO model (Accurate Result)
+1. Installation & Setup
+2. Download Roboflow Dataset (automated)
+3. Traditional CV Detection (OpenCV baseline)
+4. Train YOLOv8 Model (quick & full training)
+5. Model Validation (metrics & visualization)
+6. OCR Integration (Tesseract setup)
+7. Complete Pipeline (YOLO + OCR together)
+8. Batch Processing & Analytics
+9. Model Export (ONNX/TFLite/OpenVINO)
+10. Train YOLOv8 Model with small and medium YOLO model (Accurate Result)
 
 ## Download the Roboflow Dataset:
 https://universe.roboflow.com/roboflow-universe-projects/license-plate-recognition-rxg4e/dataset/11
